@@ -3,7 +3,7 @@
  Best E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
 
 ## Live Link
-Hosted in Netlify -> [HeroGadget](https://herogadget.netlify.app/](https://herogadget-react-shop.netlify.app/)
+Hosted in Netlify -> [HeroGadget](https://herogadget-react-shop.netlify.app/)
 
 ## React Router Dom v6.4 
 Documentation Link -> [Link](https://reactrouter.com/en/main/start/overview)
